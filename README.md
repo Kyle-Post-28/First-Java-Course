@@ -1,2 +1,2 @@
-# First-Java-Course
-This is a collection of some of my first java file created during my Introduction to Programming course CMIS 141. The goal is to show all the various files as individual projects.
+# Oven
+This is a simple creation of an Oven object with attached parameters. With a test case file attached.
