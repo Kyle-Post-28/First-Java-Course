@@ -1,2 +1,2 @@
-# First-Java-Course
-This is a collection of some of my first java file created during my Introduction to Programming course CMIS 141. The goal is to show all the various files as individual projects.
+# Random-Files
+These are some other files that were created for smaller assignments and discussion. One creates nested loops, one creates a small progrm to read a line of a file, another program creates a deposit class, and the final one creates random points. 
